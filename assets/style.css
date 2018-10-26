@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+}
+body {
+    background: url(Images/left_corner_img.png) no-repeat  fixed; 
+    background-color: orange;
+}
+#top {
+    width: 50%;
+    height: auto;
+    /* margin-left: 25%; */
+  
+}
+#bottom{
+    width: 90%;
+}
